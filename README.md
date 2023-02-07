@@ -10,7 +10,9 @@
     </a>
 </p>
 
-Aprendendo com Professor José de Assis
+Aprendendo com Professor José de  Assis
+
+[Canal no Youtube](https://www.youtube.com/@ProfessorJosedeAssis)
 
 
 #  HTML5 e CSS3
